@@ -33,7 +33,7 @@
         <allowPause>false</allowPause>
         <fields>
             <name>HelloScreen</name>
-            <fieldText>&lt;p&gt;&lt;strong style=&quot;font-size: 36px;&quot;&gt;Hello&lt;/strong&gt;&lt;/p&gt;</fieldText>
+            <fieldText>&lt;p&gt;&lt;strong style=&quot;font-size: 36px;&quot;&gt;Hello Screen&lt;/strong&gt;&lt;/p&gt;</fieldText>
             <fieldType>DisplayText</fieldType>
         </fields>
         <showFooter>true</showFooter>
